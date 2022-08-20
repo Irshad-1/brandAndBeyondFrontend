@@ -15,8 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## User Details Page
 ![image](https://user-images.githubusercontent.com/53389729/185749387-4d191518-ad85-4c2f-9f01-05a4723387c8.png)
 
-##Sign Up Page
+## Sign Up Page
 ![image](https://user-images.githubusercontent.com/53389729/185749416-649a5eea-f7ec-4d8d-a3a6-b2625a16f62b.png)
 
-### Admin Panel
+## Admin Panel
 ![image](https://user-images.githubusercontent.com/53389729/185749434-cf5ca031-b580-4060-add4-781e1dad97cd.png)
